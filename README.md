@@ -18,3 +18,17 @@ Managing component state with useState (Hooks)
 
 Passing data via props
 
+------------
+Date -07-02-25
+
+Styling:
+
+Inline styles
+
+Stylesheet API
+
+Flexbox layout
+
+Platform-specific styles
+
+--------------
